@@ -249,7 +249,7 @@ header .book_me:hover {
   header :checked ~ .menu { /*:checked is a pseudo-class in CSS that applies styles when a checkbox or radio button is checked,  and the ~ is the general sibling combinator. it selects all elements that are sibilings of a specified element. */
 
     bottom: 0; /*slide the menu up to make it visible*/
-    background-color: darkblue;
+    background-color: rgb(99, 8, 8);
 
   }
 
